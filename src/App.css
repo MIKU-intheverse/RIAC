@@ -1,0 +1,14 @@
+
+.frontbg{
+    background-image: url(./assets/workspace.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.lastbg{
+    background-image: url(./assets/bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
